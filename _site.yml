@@ -1,0 +1,7 @@
+name: "Graham Ward"
+output_dir: 'docs'
+output: 
+  rmdformats::material: 
+    css: 'style.css'
+
+

@@ -1,0 +1,52 @@
+* {font-family: 'Avenir';
+  font-size: 20px;
+}
+
+.header-panel {
+  background-color: #321f1c;
+}
+.container-fluid.main-container {
+  background-image: url(background3.png);
+  background-size: 100%;
+  background-position-y: 70%;
+  background-color: transparent;
+}
+
+.figure.panel.panel-default{
+  float: right;
+  margin-right: 15px;
+  margin-top: 0;
+}
+
+.pages h1{
+  font-family: 'Rockwell';
+  color: #321f1c;
+  font-size: 30px;
+  margin-bottom: 0.5em;
+}
+.header-panel h1{
+  font-family: 'Rockwell';
+  font-size: 35px;
+}
+.pages h2{
+  font-family: 'Rockwell';
+  color: #321f1c;
+  font-size: 25px;
+}
+.menu ul li a{
+  font-family: 'Rockwell';
+  font-size: 25px;
+  color: white;
+}
+#toc-about{
+  color: #321f1c;
+}
+.figure{
+  margin: 1em 0 0 0;
+}
+.pages img.image-lb{
+  max-width: 175px !important;
+}
+.panel-body{
+  padding: 10px;
+}
