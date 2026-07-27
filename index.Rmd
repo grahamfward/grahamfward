@@ -6,7 +6,7 @@ title: "Graham Ward"
 
 <img src="grahamward.jpg">
 
-I am a non-Native Ph.D. student in the Department of Sociology at the University of Oregon studying environmental sociology. I utilize mixed methods approaches, including quantitative, network, and content analyses to understand how settler colonialism structures relationships between humans and the natural world. Specifically, I am interested in decolonization, environmental movements, Indigenous-settler relations, and industrial agriculture. I received a B.A. in Sociology (Hons) with concentrations in Statistics and Environmental Studies from Grinnell College in 2025.
+I am a non-Native Ph.D. student in the Department of Sociology at the University of Oregon studying environmental sociology. I utilize mixed methods approaches, including quantitative, network, and content analyses to understand how settler colonialism structures relationships between humans and the natural world. Specifically, I am interested in decolonization, environmental movements, Indigenous-settler relations, environmental health, and industrial agriculture. I received a B.A. in Sociology (Hons) with concentrations in Statistics and Environmental Studies from Grinnell College in 2025.
 
 ## Publications
 Bacon, J.M., Kirsten Vinyeta, **Graham Ward**, and Ella Widmann. 2025. “Mapping The Web of Solidarity: A Social Network Analysis of Shifting Tribal Engagement among the Big 10 Environmental Organizations in the United States”. *Environmental Sociology*. https://doi.org/10.1080/23251042.2025.2529613.
@@ -20,7 +20,7 @@ Vinyeta, K., J.M. Bacon, **Graham Ward**, and Jordan Rowley. "Birds of Many Feat
 Jacob, M. M., **Graham Ward**, Matthew Guerra, and Angel Fernandez. “How to respect other people and all of Creation": Analyzing the importance of Yakama literature for decolonial futures." Manuscript under review.
 
 # CV
-*[View curriculum vitae (updated May 2026)](CV.pdf)*
+*[View curriculum vitae (updated July 2026)](CV.pdf)*
 
 
 # Teaching
