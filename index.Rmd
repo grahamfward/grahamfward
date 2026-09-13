@@ -9,14 +9,16 @@ title: "Graham Ward"
 I am a non-Native Ph.D. student in the Department of Sociology at the University of Oregon studying environmental sociology. I utilize mixed methods approaches, including quantitative, network, and content analyses to understand how settler colonialism structures relationships between humans and the natural world. Specifically, I am interested in decolonization, environmental movements, Indigenous-settler relations, environmental health, and industrial agriculture. I received a B.A. in Sociology (Hons) with concentrations in Statistics and Environmental Studies from Grinnell College in 2025.
 
 ## Publications
-Bacon, J.M., Kirsten Vinyeta, **Graham Ward**, and Ella Widmann. 2025. “Mapping The Web of Solidarity: A Social Network Analysis of Shifting Tribal Engagement among the Big 10 Environmental Organizations in the United States”. *Environmental Sociology*. https://doi.org/10.1080/23251042.2025.2529613.
+
+Vinyeta, Kirsten, J.M. Bacon, **Graham Ward**, and Jordan Rowley. 2026.“Birds of Many Feathers? Examining Perceptions Among U.S. Birders in the Wake of the American Ornithological Society’s Eponymous Bird Renaming Decision.” *People and Nature*. https://doi.org/10.1002/pan3.70429
+
+
+Bacon, J.M., Kirsten Vinyeta, **Graham Ward**, and Ella Widmann. 2025. “Mapping The Web of Solidarity: A Social Network Analysis of Shifting Tribal Engagement among the Big 10 Environmental Organizations in the United States”. *Environmental Sociology* 12 (3): 607-623. https://doi.org/10.1080/23251042.2025.2529613.
 
 - [Interactive Data Visualization](https://grahamward.shinyapps.io/big10/)
 
 ## In Preparation
 
-Vinyeta, K., J.M. Bacon, **Graham Ward**, and Jordan Rowley. "Birds of Many Feathers? Examining Perceptions Among U.S. Birders in the Wake of the American Ornithological Society’s Eponymous Bird Renaming Decision". Manuscript revised and resubmitted.\
-\
 Jacob, M. M., **Graham Ward**, Matthew Guerra, and Angel Fernandez. “How to respect other people and all of Creation": Analyzing the importance of Yakama literature for decolonial futures." Manuscript under review.
 
 # CV
